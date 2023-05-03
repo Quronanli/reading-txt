@@ -1,0 +1,15 @@
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\bin\Debug\net6.0\reading-txt.exe
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\bin\Debug\net6.0\reading-txt.deps.json
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\bin\Debug\net6.0\reading-txt.runtimeconfig.json
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\bin\Debug\net6.0\reading-txt.dll
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\bin\Debug\net6.0\reading-txt.pdb
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\obj\Debug\net6.0\reading-txt.csproj.AssemblyReference.cache
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\obj\Debug\net6.0\reading-txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\obj\Debug\net6.0\reading-txt.AssemblyInfoInputs.cache
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\obj\Debug\net6.0\reading-txt.AssemblyInfo.cs
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\obj\Debug\net6.0\reading-txt.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\obj\Debug\net6.0\reading-txt.dll
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\obj\Debug\net6.0\refint\reading-txt.dll
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\obj\Debug\net6.0\reading-txt.pdb
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\obj\Debug\net6.0\reading-txt.genruntimeconfig.cache
+C:\Users\maxim\OneDrive\Рабочий стол\Min-and-max-from-txt\reading-txt\obj\Debug\net6.0\ref\reading-txt.dll
